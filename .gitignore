@@ -4,6 +4,8 @@
 
 # Files for the Dalvik VM
 *.dex
+# vim
+*.swp
 
 # Java class files
 *.class
